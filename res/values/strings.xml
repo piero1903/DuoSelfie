@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DuoGraphDeneme1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_deneme">Captured Images</string>
+    <string name="backImageText">Image of Back Camera</string>
+    <string name="frontImageText">Image of Front Camera</string>
+
+</resources>
